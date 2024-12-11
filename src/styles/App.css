@@ -538,7 +538,7 @@ img.downarrow{
 /* 2020 visualization */
 .twentyviz h1{
   font-family: "Montserrat";
-  font-size: 54px;
+  font-size: 30px;
 }
 .twentyviz h1 a{
 float:right;
@@ -595,6 +595,8 @@ canvas {
 /* card 2020 */
 h1.tenpx{
   margin-bottom:0px;
+  font-size: 30px;
+	
 }
 .box.full{
   width:360px;
